@@ -11,9 +11,9 @@ server_scripts {
 ui_page('client/html/UI-de.html') -- German UI
 
 files {
-	'client/html/UI-fr.html', -- French UI
+	--'client/html/UI-fr.html', -- French UI
 	--'client/html/UI-en.html', -- English UI
-	--'client/html/UI-de.html', -- German UI
+	'client/html/UI-de.html', -- German UI
     'client/html/style.css',
     'client/html/media/font/Bariol_Regular.otf',
     'client/html/media/font/Vision-Black.otf',
