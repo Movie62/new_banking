@@ -6,9 +6,9 @@ server_scripts {
 }
 
 -- Uncomment the desired version 
-ui_page('client/html/UI-fr.html') -- French UI
+--ui_page('client/html/UI-fr.html') -- French UI
 --ui_page('client/html/UI-en.html') -- English UI
---ui_page('client/html/UI-de.html') -- German UI
+ui_page('client/html/UI-de.html') -- German UI
 
 files {
 	'client/html/UI-fr.html', -- French UI
